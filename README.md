@@ -17,7 +17,7 @@ Primeiro envio do repositório no GitHub :cat: para compartilhar envio de commit
 * Sal a gosto.
 * Mix de temperos a gosto.
 
-!(Resultado final apos o preparo)(https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2020/08/25/charuto-de-folha-de-uva-37190-1024x752.jpg).
+![Resultado final apos o preparo](https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2020/08/25/charuto-de-folha-de-uva-37190-1024x752.jpg).
 
 
 ## Abaixo tem as informaçoes do preparo.
